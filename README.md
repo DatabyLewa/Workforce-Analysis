@@ -16,6 +16,10 @@
 ### Project Overview
 This project explores the relationship between employee engagement and retention using real-world HR data, by analyzing employee demographics, attrition patterns, compensation structures, gender equality and career progression. The goal is to uncover actionable insights that help organizations improve employee experience and reduce attrition.
 
+**<img width="476" height="241" alt="image" src="https://github.com/user-attachments/assets/8e9cc41b-488e-497f-8a9d-452ce92017a6" />
+**
+<img width="756" height="413" alt="image" src="https://github.com/user-attachments/assets/aada2d1a-8167-4b6e-b0ff-de09acd934ba" />
+
 ### Data Set
 Source: Public Domain
 Size:
